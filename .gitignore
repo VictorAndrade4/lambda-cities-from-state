@@ -9,3 +9,6 @@ go.work
 go.work.sum
 .env
 .idea
+*.zip
+bootstrap
+main
